@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 778bc581f6cba4742abb60ab563f20ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorOpenAudio: {fileID: 8300000, guid: 11d1058e7474e59498c58fe01218a930, type: 3}
+  - doorCloseAudio: {fileID: 8300000, guid: abbabaffd5966f840a644aeeb19c21da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
